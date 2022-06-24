@@ -1,5 +1,5 @@
 import React from 'react';
-import StarRating from './lib/components.StarRating';
+import StarRating from './lib/components/StarRating';
 
 const App = () => {
   return (
