@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
-import './style.css';
-import StarRating from './StarRating';
+import React from 'react';
+import StarRating from './lib/components.StarRating';
 
 const App = () => {
   return (
